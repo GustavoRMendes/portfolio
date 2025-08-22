@@ -1,7 +1,7 @@
 # Portfólio Gustavo Mendes
 Meu portfólio pessoal, onde apresento projetos desenvolvidos em Front-End e Back-End, mostrando minhas habilidades e outras tecnologias web.
 
-<img src="img/screenshot-portifolio.png" alt="Screenshot do Portfólio" width="600">
+<a href="https://gustavormendes.github.io/portfolio/" target="_blank" rel="noopener noreferrer"><img src="img/screenshot-portifolio.png" alt="Screenshot do Portfólio" width="700"></a>
 
 
 ---
